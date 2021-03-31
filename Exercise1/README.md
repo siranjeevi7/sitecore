@@ -2,6 +2,7 @@ Using Terraform to provision multiple VMs in Azure Cloud.
 
 Terraform will provsion the New Resource Group, Vnet, Subnet, Public IP, Network Interface, Network SG and Virtual Machines.
 
+
 Files Usage:
 
 main.tf -> Main terraform configuration file to provision the infrastructure.
