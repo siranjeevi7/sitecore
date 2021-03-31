@@ -13,7 +13,7 @@ Step 4: Accessed the website in browser, website gave 200 reponse.
 
 We can also fix this issue in another way:
 
-In step 2: we found that AppPoolServiceUser user account is created in the server, may be the password specified in the apppool identity is wrong.
+We found that AppPoolServiceUser user account is created in the server, may be the password specified in the apppool identity was wrong. So we need to reset the password and add that user in apppool identity to fix the issue.
 
 Reset the password for the user account "AppPoolServiceUser".
 
